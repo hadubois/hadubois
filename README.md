@@ -6,11 +6,7 @@ I am currently doing the 42 common core in 42Paris.
 
 If you have any questions about my repositories, send me a mail.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+uses: Platane/snk/svg-only@v3
 
 <!---
 hadubois/hadubois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
