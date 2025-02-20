@@ -1,10 +1,17 @@
 ![Animated Pixel Art Creations by Kirokaze _ Inspiration Grid](https://github.com/user-attachments/assets/8ab2f0dd-ca3a-46d2-b66c-3b7f48ca0909)
 
-### Status:
+---
 
-I am currently doing the 42 common core in 42Paris.
+### Status
 
-If you have any questions about my repositories, send me a mail.
+---
+
+I am currently doing the 42 common core @42Paris.
+You can check my progression with my 42_zero_to_hero repo.
+
+If you have any questions or suggestions, send me a mail.
+
+---
 
 [![My Skills](https://skillicons.dev/icons?i=c,bash,linux,md)](https://skillicons.dev)
 
