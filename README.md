@@ -5,7 +5,7 @@
 ---
 
 I am currently doing the 42 common core @42Paris.
-You can check my progression with my 42_zero_to_hero repo.
+You can check my progression with my 42_portfolio repo.
 
 If you have any questions or suggestions, send me a mail.
 
