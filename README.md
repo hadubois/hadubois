@@ -5,4 +5,4 @@ Currently seeking internships after completing my 42 Common Core curriculum. Now
 
 I enjoy pixel art. Also retro stuff like motos, moustaches, arcade games and more.🔧 To fix those some electronic knowledge helps. Thanks to 42 Paris I have learned that. 🥳
 
-Check out to my main projets here -> [42 portfolio](https://github.com/hadubois/42-portfolio)
+Check out to my main projets in my [42 portfolio](https://github.com/hadubois/42-portfolio).
