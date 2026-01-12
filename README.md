@@ -1,4 +1,4 @@
-![explorateur](https://github.com/user-attachments/assets/df3076a7-dc4b-4eb6-ab11-9141bc9c88a1)
+![up_part_of_earth](https://github.com/user-attachments/assets/2dd0f1f7-9e7a-45d5-a2ce-4b700a49cba6)
 
 
 ### Status
